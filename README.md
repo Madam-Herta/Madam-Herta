@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning MySQL<br>🎯 Goals: Be Rich<br>🎲 Fun fact: I hate working.<br>✨ Country: 🇵🇱</p>
+<p align="left">✨ Creating bugs since 2007<br>📚 I'm currently learning MySQL<br>🎯 Goals: Be Rich<br>🎲 Fun fact: I hate working.<br>✨ Country: 🇵🇱</p>
 
 ###
 
